@@ -27,6 +27,8 @@ Source: https://wortschatz.uni-leipzig.de/de/download/German
 
 D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages In: Proceedings of the 8th International Language Resources and Evaluation,2012 
 
+* For reasons of Privacy, it wasn't possible to publish the data because there were people's sensitive information in the data such as names, family relations, etc.
+
 ## Training
 
 We carried out a total of 3 training sessions and 9 tests:
